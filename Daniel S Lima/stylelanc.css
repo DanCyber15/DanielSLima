@@ -1,0 +1,42 @@
+
+body {
+    background-color: #F2B737; 
+    color: var(--branco);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+
+.carros {
+    margin-bottom: 50px;
+}
+
+
+.carros img {
+    width: 100%;
+    max-width: 450px; 
+    height: auto;    
+    display: block;
+    margin-bottom: 15px;
+}
+
+
+.carros h2 {
+    font-size: 20px;
+    color: var(--branco);
+    margin: 0 0 10px 0;
+}
+
+
+.carros p {
+    font-size: 14px;
+    color:var(--branco);
+    margin: 0 0 8px 0;
+}
+
+.carros span {
+    font-size: 14px;
+    color: var(--branco);
+    display: block;
+}
